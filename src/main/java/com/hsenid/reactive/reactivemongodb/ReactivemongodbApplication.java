@@ -29,7 +29,7 @@ public class ReactivemongodbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReactivemongodbApplication.class, args);
-		System.out.println("Hello");
+		System.out.println("Hello World");
 	}
 
 }
